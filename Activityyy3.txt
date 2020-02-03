@@ -1,0 +1,60 @@
+<doctype html>
+<html>
+<head>
+<title> activity3 </title>
+</head>
+<body bgcolor="peach">
+<p align="left"><H2>Restaurant Menu</H2></b></p>
+<ol>
+<li>South India</li>
+<ul type="square">
+<li>idly samber</li>
+<li>masala dosa</li>
+</ol>
+<ol>
+<li>North India</li>
+<ul type="disc">
+<li>pav bajji<li>
+<li>paneer butter masala</li>
+</ol>
+
+<p align="left"<b>An Example for table</b></p>
+<table border="1" cellpadding="15" cellspacing="0" >
+
+<tr>
+<th>firstname</th>
+<th>last name</th>
+<th>age</th>
+</tr>
+<tr>
+<td>bill</td>
+<td>gates</td>
+<td>50</td>
+</tr>
+<tr>
+<td>shane</td>
+<td>warne</td>
+<td>50</td>
+</tr>
+<tr>
+<td>virat</td>
+<td>kohli</td>
+<td>35</td>
+</tr>
+<table align="right" border="1" cellpadding="15" cellspacing="0" >
+<caption>SEMESTER CGPA</caption>
+<tr>
+<th>SEMESTER</th>
+<th>CGPA</th>
+</tr>
+<tr>
+<td>1</td>
+<td>8.5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>7.5</td>
+</tr>
+</table>
+</body>
+</html>
