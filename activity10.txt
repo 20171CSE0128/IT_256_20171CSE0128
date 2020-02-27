@@ -1,0 +1,92 @@
+<html>
+<head>
+<title>My Resume</title>
+</head>
+<body bgcolor=" #96d5d9 ">
+<img src="Flower.jpeg" alt="Profile Photo" height="100" width="100" align="right"/>
+<p><b>BHAVANA S P</b></p>
+<a href="https://www.gmail.com">bhavanas4747@gmail.com</a>
+<p>Phone No-+9606407563</p>
+<hr/>
+<h3>CV Highlights</b></h3>
+<ul>
+<Li>java</Li>
+<Li>C</Li>
+<Li>Html</Li>
+</ul>
+<hr/>
+<h3>Professional Experience</h3>
+<ul>
+<Li>web designing</Li>
+</ul>
+<hr/>
+<h3>Job Responsibilities</h3>
+<ul>
+<Li>Complete the given work in time</Li>
+<Li>Loyal</li>
+</ul>
+<hr/>
+<h3>Educational Qualification</h3>
+<table border="2" callpadding="3" cell spacing="3" color="black">
+  <tr>
+    <th>Class/Education</th>
+    <th>College/University</th>
+<th>Percentage/CGPA/Points</th>
+<th>Year of Passing</th>
+  </tr>
+  <tr>
+    <td>B.Tech</td>
+    <td>Presidency University</td>
+<td>Yet to finish</td>
+<td>2021</td>
+  </tr>
+
+ <tr>
+    <td>Class XII</td>
+    <td>Government college</td>
+<td>76.00% Per</td>
+<td>2017</td>
+  </tr>
+ <tr>
+    <td>Class X</td>
+    <td>Government School</td>
+<td>78.00%</td>
+<td>2015</td>
+  </tr>
+</table>
+<h3>Independent Courses</h3>
+<ul>
+<Li>Airtificial Intelligence</Li>
+<Li>Machine Learning</Li>
+</ul>
+<hr/>
+<h3>Technical Skills</h3>
+<ul>
+<Li>Creative Thinking</Li>
+<Li>Smart Working</Li>
+</ul>
+<hr/>
+<h3>Certification</h3>
+<ul>
+<Li>Cloud Computing</Li>
+<Li>Programming in C</Li>
+</ul>
+<hr/>
+<h3>Personal Information</h3>
+<ul>
+<Li>Lives in Bangalore</Li>
+<Li>My Favorite place is Punjab</Li>
+</ul>
+<hr/>
+<h3>Other Information</h3>
+<ul>
+<Li>Knows To speak multiple languages</Li>
+<Li>Interested in Drawing</Li>
+</ul>
+<hr/>
+<h3>Declaration</h3>
+<ul>
+<p>I Hereby declare that the above mentioned information is true as per my Knowledge</p><br/>
+<p align="left">Date: <br/>Place:</p> 
+</body>
+</html>
